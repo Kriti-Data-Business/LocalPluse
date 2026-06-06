@@ -1,0 +1,6 @@
+{
+  "name": "LocalPulse",
+  "description": "Real-time dynamic operational intelligence and creative Google Ads generator for Melbourne's cafes, pubs, and Airbnbs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
